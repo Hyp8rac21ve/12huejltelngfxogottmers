@@ -1,4 +1,3 @@
-
 (function () {
     var footer = document.createElement('footer');
     footer.classList.add("text-center");
